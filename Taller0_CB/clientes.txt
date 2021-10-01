@@ -1,0 +1,3 @@
+Juanito,Perez,11111111,ABC123,20000.0
+Cristian,Becerra,201692830,ABCD,35000.0
+Brayan,Maldonado,201679079,darkface,15000.0
